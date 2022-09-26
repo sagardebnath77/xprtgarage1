@@ -64,7 +64,7 @@
     const ssCountdown = function () {
 
         // const finalDate = new Date(cfg.finalDate).getTime();
-        const finalDate = new Date('September 17, 22 10:00:00 GMT+00:00').getTime();
+        const finalDate = new Date('October 24, 22 10:00:00 GMT+00:00').getTime();
         const daysSpan = document.querySelector('.counter .ss-days');
         const hoursSpan = document.querySelector('.counter .ss-hours');
         const minutesSpan = document.querySelector('.counter .ss-minutes');
